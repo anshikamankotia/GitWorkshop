@@ -53,4 +53,10 @@ Git introduction workshop held to introduce students to Open Source
 ### Vivek Sharma
 - IT 2nd Year
 
+### Anshika Mankotia
+- CSE 1st year
+
+
+
+
 
